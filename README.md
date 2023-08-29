@@ -1,16 +1,65 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Caleves/Caleves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá 👋, eu sou o Carlos</h1>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div>
+  
+<blockquote>Sou um estudante de Tecnologia da Informação e Ciências de Dados e estou constantemente em busca de novos desafios na área da tecnologia. Além das minhas habilidades técnicas, sou uma defensor do aprendizado contínuo, sempre buscando expandir os meus conhecimentos. <br> <br>
+
+Um dos meus principais objetivos de carreira é ter a oportunidade de trabalhar ao lado de profissionais experientes dos quais eu possa aprender e, ao mesmo tempo, compartilhar meus conhecimentos com aqueles que precisam. Estou ansioso para contribuir com as metas da equipe, trazer soluções para problemas complexos e gerar resultados excepcionais e aproveitar todas as oportunidades que surgirem.</blockquote>
+     <br> <br>
+
+
+
+<section align="center"><h3>🌐 Conecte-se comigo:</h3> 
+  <a href="https://www.linkedin.com/in/carlosalves11/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.discord.com/carlosalves./" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="25" alt="instagram logo"  />
+  </a>
+  <a href="carlos.apcalves@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="25" alt="microsoft-outlook logo"  />
+ 
+  </a>
+
+</section>
+
+---
+ 
+
+
+
+
+####
+
+ 
+
+
+
+<div align="center">
+<h3> Principais tecnologias e conhecimentos : <br> <br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="seaborn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="seaborn logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+
+
+
+###
+ 
+
+
+
+
