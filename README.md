@@ -9,7 +9,7 @@
   
 <blockquote>Sou um estudante de Tecnologia da Informação e Ciências de Dados e estou constantemente em busca de novos desafios na área da tecnologia. Além das minhas habilidades técnicas, sou uma defensor do aprendizado contínuo, sempre buscando expandir os meus conhecimentos. <br> <br>
 
-Um dos meus principais objetivos de carreira é ter a oportunidade de trabalhar ao lado de profissionais experientes dos quais eu possa aprender e, ao mesmo tempo, compartilhar meus conhecimentos com aqueles que precisam. Estou ansioso para contribuir com as metas da equipe, trazer soluções para problemas complexos e gerar resultados excepcionais e aproveitar todas as oportunidades que surgirem na área.</blockquote>
+Um dos meus principais objetivos de carreira é ter a oportunidade de trabalhar ao lado de profissionais experientes dos quais eu possa aprender e, ao mesmo tempo, compartilhar meus conhecimentos com aqueles que precisam. Estou ansioso para contribuir com as metas estabelecidas, trazer soluções para problemas complexos e gerar resultados excepcionais e aproveitar todas as oportunidades que surgirem na área.</blockquote>
      <br> <br>
 
 
