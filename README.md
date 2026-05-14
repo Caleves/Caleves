@@ -7,9 +7,7 @@
 <br>
 <div>
   
-<blockquote>Sou um estudante de Tecnologia da Informação e Ciências de Dados e estou constantemente em busca de novos desafios na área da tecnologia. Além das minhas habilidades técnicas, sou uma defensor do aprendizado contínuo, sempre buscando expandir os meus conhecimentos. <br> <br>
-
-Um dos meus principais objetivos de carreira é ter a oportunidade de trabalhar ao lado de profissionais experientes dos quais eu possa aprender e, ao mesmo tempo, compartilhar meus conhecimentos com aqueles que precisam. Estou ansioso para contribuir com as metas estabelecidas, trazer soluções para problemas complexos e gerar resultados excepcionais.</blockquote>
+<blockquote>Graduado em Tecnologia da Informação com especialização em Ciência de Dados, foco minha carreira na resolução de problemas complexos através de dados. Sou entusiasta da cultura de aprendizado contínuo e busco ambientes que valorizem a inovação técnica e a colaboração. Meu objetivo é aplicar meu conhecimento em ferramentas de análise e automação para otimizar processos, apoiar tomadas de decisão estratégicas e entregar resultados de alto impacto para o negócio.</blockquote>
      <br> <br>
 
 
