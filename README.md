@@ -7,7 +7,9 @@
 <br>
 <div>
   
-<blockquote>Graduado em Tecnologia da Informação com especialização em Ciência de Dados, foco minha carreira na resolução de problemas complexos através de dados. Sou entusiasta da cultura de aprendizado contínuo e busco ambientes que valorizem a inovação técnica e a colaboração. Meu objetivo é aplicar meu conhecimento em ferramentas de análise e automação para otimizar processos, apoiar tomadas de decisão estratégicas e entregar resultados de alto impacto para o negócio.</blockquote>
+<blockquote><p align="justify">
+  Graduado em Tecnologia da Informação com especialização em Ciência de Dados, foco minha carreira na resolução de problemas complexos através de dados. Sou entusiasta da cultura de aprendizado contínuo e busco ambientes que valorizem a inovação técnica e a colaboração. Meu objetivo é aplicar meu conhecimento em ferramentas de análise e automação para otimizar processos, apoiar tomadas de decisão estratégicas e entregar resultados de alto impacto para o negócio.
+</p></blockquote>
      <br> <br>
 
 
